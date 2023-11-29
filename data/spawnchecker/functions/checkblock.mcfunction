@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ #spawnchecker:valid_spawn_in unless block ~ ~-1 ~ #spawnchecker:invalid_spawn_on run function spawnchecker:markblock

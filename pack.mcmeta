@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "Marks locations where mobs can spawn within 128 blocks of you."
+    }
+}

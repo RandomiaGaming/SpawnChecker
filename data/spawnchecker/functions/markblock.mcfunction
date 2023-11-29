@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {Tags:[SpawnMarker],Small:1b,NoAI:1b,NoGravity:1b,DisabledSlots:4144959,ActiveEffects:[{Id:24,Amplifier:0,Duration:2147483647,ShowParticles:0b}]}
